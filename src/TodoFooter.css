@@ -1,0 +1,19 @@
+.todoAppFooter{
+    line-height: 1.2;
+    border: 1px solid rgba(0, 0, 0, 0.048);
+    background: rgba(0,0,0,0.003);
+    font-size: 24px;
+    font-family: inherit;
+    font-weight: inherit;
+    outline: none;
+    display: flex;
+    justify-content: space-between;
+}
+.todoClearCompleted{
+    padding: 10px;
+    border: 0;
+}
+.todoCompleted{
+    padding: 10px;
+    font-size: 14px;
+}

@@ -1,0 +1,21 @@
+.todoItem{
+    line-height: 1.2;
+    border: 1px solid rgba(0, 0, 0, 0.048);
+    background: rgba(0,0,0,0.003);
+    font-size: 24px;
+    font-family: inherit;
+    font-weight: inherit;
+    outline: none;
+ 
+
+}
+.label{
+    display: flex;
+    justify-content: space-between;
+}
+.buttonX{
+    border:0;
+    padding: 10px;
+    background: transparent;
+}
+    
